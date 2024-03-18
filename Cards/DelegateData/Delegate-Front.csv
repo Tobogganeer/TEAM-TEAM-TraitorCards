@@ -1,0 +1,8 @@
+Name,@Image,@EffectIcon,EffectText,ComboPrefix,@ComboIcon,ComboText
+Poisoner,Poisoner.ai,Damage.ai,x1,,,
+Assassin,Assassin.ai,Damage.ai,x2,+,Damage.ai,with Poisoneer
+Doctor,Doctor.ai,Protection.ai,x1,+,Protection.ai,x2 with Poisoneer
+Knight,Knight.ai,Protection.ai,x1,+,Protection.ai,x2 with Trap
+Bodydouble,Bodydouble.ai,Protection.ai,x2,+,Protection.ai,with Assassin
+Saboteur,Saboteur.ai,Damage.ai,x3,+,Damage.ai,with Poisoneer
+Legion,Legion.ai,Protection.ai,x3,+,Protection.ai,x2 with Assassin
