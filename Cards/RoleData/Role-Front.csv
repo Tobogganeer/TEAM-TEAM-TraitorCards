@@ -1,0 +1,10 @@
+Name,@Image,@Health_1,@Health_2,@Health_3,@Health_4,@KingEffectIcon,KingEffectText,FavourText
+King,King.ai,Heart.ai,Heart.ai,Heart.ai,Heart.ai,,,"Once per game:
+- Peek at a players role OR
+- Move a Delegate between Courts"
+Traitor,Traitor.ai,,Heart.ai,Heart.ai,,Damage.ai,"x2 to king, if alive.","Once per game:
+- Peek at a players role OR
+- Move a Delegate between Courts"
+Loyalist,Loyalist.ai,,Heart.ai,Heart.ai,,Protection.ai,"x2 to king, if alive.","Once per game:
+- Peek at a players role OR
+- Move a Delegate between Courts"
