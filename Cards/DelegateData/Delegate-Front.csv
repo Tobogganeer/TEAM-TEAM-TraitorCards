@@ -1,8 +1,8 @@
-Name,@Image,@EffectIcon,EffectText,ComboPrefix,@ComboIcon,ComboText
-Poisoner,Poisoner.ai,Damage.ai,x1,,,
-Assassin,Assassin.ai,Damage.ai,x2,+,Damage.ai,with Poisoner
-Doctor,Doctor.ai,Protection.ai,x1,+,Protection.ai,x2 with Poisoner
-Knight,Knight.ai,Protection.ai,x1,+,Protection.ai,x2 with Trap
-Bodydouble,Bodydouble.ai,Protection.ai,x2,+,Protection.ai,with Assassin
-Saboteur,Saboteur.ai,Damage.ai,x3,+,Damage.ai,with Poisoner
-Legion,Legion.ai,Protection.ai,x3,+,Protection.ai,x2 with Assassin
+Name,@Image,EffectText,ComboText
+Poisoner,Poisoner.ai,-1 HP,
+Assassin,Assassin.ai,-2 HP,1 extra damage with a Poisoner
+Doctor,Doctor.ai,+1 HP,Destroys one Poisoner
+Knight,Knight.ai,+1 HP,Destroys one Saboteur
+Bodydouble,Bodydouble.ai,+2 HP,Destroys one Assassin
+Saboteur,Saboteur.ai,-3 HP,1 extra damage with a Poisoner
+Legion,Legion.ai,+3 HP,Destroys one Assassin
