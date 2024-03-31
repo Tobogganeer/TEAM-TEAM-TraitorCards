@@ -1,8 +1,8 @@
 Name,@Image,EffectText,ComboText
-Poisoner,Poisoner.ai,-1 HP,
-Assassin,Assassin.ai,-2 HP,1 extra damage with a Poisoner
-Doctor,Doctor.ai,+1 HP,Destroys one Poisoner
-Knight,Knight.ai,+1 HP,Destroys one Saboteur
-Bodydouble,Bodydouble.ai,+2 HP,Destroys one Assassin
-Saboteur,Saboteur.ai,-3 HP,1 extra damage with a Poisoner
-Legion,Legion.ai,+3 HP,Destroys one Assassin
+Poisoner,Poisoner.png,-1 HP,
+Assassin,Assassin.png,-2 HP,1 extra damage with a Poisoner
+Doctor,Doctor.png,+1 HP,Destroys one Poisoner
+Knight,Knight.png,+1 HP,Destroys one Saboteur
+Bodydouble,Bodydouble.png,+2 HP,Destroys one Assassin
+Saboteur,Saboteur.png,-3 HP,1 extra damage with a Poisoner
+Legion,Legion.png,+3 HP,Destroys one Assassin
