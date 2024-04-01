@@ -1,4 +1,4 @@
 Name,@Image,@Health_1,@Health_2,@Health_3,@Health_4,HPText,GoalText
-King,King.ai,Heart.ai,Heart.ai,Heart.ai,Heart.ai,4 HP,Wins if alive.
-Traitor,Traitor.ai,,,Heart.ai,Heart.ai,2 HP,"-2 HP to king, if alive."
-Loyalist,Loyalist.ai,,,Heart.ai,Heart.ai,2 HP,"+2 HP to king, if alive."
+King,King.png,Heart.ai,Heart.ai,Heart.ai,Heart.ai,4 HP,Wins if alive.
+Traitor,Traitor.png,,,Heart.ai,Heart.ai,2 HP,"-2 HP to king, if alive."
+Loyalist,Loyalist.png,,,Heart.ai,Heart.ai,2 HP,"+2 HP to king, if alive."
