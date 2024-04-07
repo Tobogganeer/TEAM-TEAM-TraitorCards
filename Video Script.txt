@@ -1,0 +1,67 @@
+Hi, I’m [Name], and this is how to play Traitor. 
+
+(Pan up art of king, loyalist and traitors with fire) 
+
+Overview 
+
+Traitor is a 4-player social-deception game with two teams of 2, where the King and Loyalist are pitted against the two Traitors. 
+
+In the game, you send “Delegates” to the Courts of other players to attack or defend them. Each team wants to defend their teammate and attack the other team, ultimately trying to either save or kill the King. The problem comes with finding out who your friends and foes are - we’ll get to that in a bit. 
+
+Cards 
+
+To start off, let’s look at the cards. There are two types of cards – Role cards and Delegate cards. 
+
+(Show Role cards) 
+
+Each player gets one Role card before the game starts, and it tells you a bit about what role you will be playing – who you are, how much health you have, what you do after the game is over, and down at the bottom here is a little reminder of what “Favours” you can use – we will touch on that later 
+
+(Show a couple Delegate cards, including Poisoner, Assassin, Doctor) 
+
+The Delegate cards are what you “play” in the game. They only have three pieces of information – the name of the card, how they affect a player’s health, and what combos they have with other cards. I’ll show you how combos work once we get to scoring. 
+
+Setup 
+
+To set up the game, let’s shuffle the 4 Role cards and then give one to each player (show dealing Role cards face-down to players). After that, we will shuffle the 12 Delegate cards and give three to each player (show dealing Delegates face-down to players). This is each player’s hand. 
+
+One important rule about Traitor is that you are never allowed to show your cards to other players, but you are allowed to say whatever you want. You have to keep your Role and Hand cards hidden, but you can tell people what they are – truthfully or not. 
+
+Getting back on track, each player should leave some space in front of them on the table to receive Delegates from other players. The pile of Delegate cards you receive is called your Court. 
+
+ 
+
+After all players have their cards, the sneakiest player will start the game. 
+
+Gameplay 
+
+The gameplay of Traitor is quite simple – there are three rounds, with everyone getting one turn per round. 
+
+When it is your turn, you have to “play” a Delegate card. It’s pretty simple – you choose another player and put one of your Delegate cards in their court (show someone putting Delegate into Court face-down). They can look at the card if they want, and even tell other people what it is – but remember they can’t actually show the card to other people. Also, you can’t give Delegates to yourself – don't be silly. 
+
+So, you have to play a Delegate on your turn. However, there is also one other type of action you can take once per game. This is known as calling in a Favour. You do this on one of your turns in addition to playing a Delegate, and you can do any time on your turn. There are two types of Favours you can call in, and if you forget them they are listed at the bottom of your role (show role card). The Favours are called Peek and Move: 
+
+If you use your Favour to Peek, you can force another player to show you what their Role is. They’ll privately show you their role card, and then you can do whatever you want with that information. You can tell everyone what it is, lie about it, be their best friend – your choice. 
+
+If you use your Favour to Move instead, you will get to move a Delegate card that has been sent to a Court. You’ll choose one Delegate card that has been played in any Court and move it to another player’s Court. If you just gave someone a Doctor, you could use this Favour to move it to your own Court. You can help your teammates, hurt your enemies, whatever you want. 
+
+Remember, you only get one Favour per game. It might be advantageous to Peek at someone’s role, or you might prefer to wait until the end to make that game-winning Move. 
+
+So, each player will take three turns giving Delegates to other players and can call in a Favour. After everyone has played all of their cards, it’s time to see who’s alive and who’s dead. At this point, you can flip up all your cards. Show everyone what your role really was and check out what Delegates everyone received. 
+
+Scoring 
+
+To start with scoring, you have to see if any cards have combos with other cards in your Court. 
+
+(Show Poisoner, Assassin, Doctor) 
+
+Let’s say these are the Delegates I have in my court at the end of the game. If you look at the Doctor here, it says that it destroys one Poisoner card, so I’ll just put the Doctor on top of the Poisoner to hide it (show it). These Delegates that destroy other Delegates are the ones you want to take care of first – you might actually notice that only the healing Delegates destroy other Delegates. 
+
+Now I’m left with just an Assassin and a Doctor. I took care of all the combos, so now if I add up the healing and damage on these cards, you can see that I will take 1 damage total. Not bad. Notice that if the Doctor didn’t destroy the Poisoner (unhide Poisoner), I would’ve actually taken 3 damage – the base values on the cards would add to 2 damage, and the Assassin does an extra damage if there is a Poisoner. 
+
+There’s one last step to scoring. Let’s say that I’m the Loyalist here (bring in Loyalist card). I took 1 damage, so I’m still alive because I have 2 health. If you look at this line here (show “+2 HP to king, if alive”), I will actually give the King an extra 2 health just because I’m alive. Note: you are considered dead if your health is 0 or negative. 
+
+Once the Traitors and Loyalist have checked whether they are dead or alive, you can find out if the King has died. If the King died, then the Traitors win. If the King is alive, the King and Loyalist win. 
+
+Conclusion 
+
+That’s really all there is to the game. The rules are simple, but the difficulty comes from finding out who’s who. Thanks for listening, and we here at TEAM TEAM hope you have fun conversating, whispering secrets, deceiving, and making plots.
